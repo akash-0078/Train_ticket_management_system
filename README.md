@@ -2,6 +2,7 @@
 ## About the Project
 The Train Reservation System is a comprehensive backend solution to manage train schedules, seat availability, bookings, and cancellations. It incorporates optimized database queries to ensure fast and reliable operations while maintaining scalability for growing datasets.
 
+## Technologies Used : MySQL, Python, Streamlit, Pandas
 ## Features
 ### 1) Train Search and Scheduling:
 
